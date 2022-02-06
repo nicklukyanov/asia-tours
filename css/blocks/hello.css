@@ -1,0 +1,19 @@
+.hello {
+  position: relative;
+  margin-bottom: 246px;
+}
+
+.hello__title {
+  width: 45%;
+  font-size: 72px;
+  font-weight: bold;
+  line-height: 1.35;
+  margin-bottom: 27.5px;
+}
+
+.hello__text {
+  font-size: 18px;
+  font-weight: normal;
+  margin-bottom: 30.5px;
+}
+
